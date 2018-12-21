@@ -1,0 +1,22 @@
+21
+0321479270_Tony Gaddis_Starting Out with Java: From Control Structures through Objects_5_AW_16_98.00
+0321409493_John Lewis_Java Software Solutions: Foundations of Program Design_5_AW_12_94.05
+0132222205_Harvey Dietel_Java How to Program_7_PH_19_76.07
+0131474340_Ralph Morelli_Java, Java, Java, Object-Oriented Problem Solving_3_PH_4_95.25
+0596100469_Alex Martelli_Python in a Nutshell_2_OR_6_39.99
+1403946876_Sally Fincher_Studying Programming_1_PM_3_26.59
+0596510047_Andy Oram_Beautiful Code: Leading Programmers Explain How They Think_1_OR_5_44.99
+0131872893_Wanda Dann_Learning to Program with Alice_1_PH_12_47.50
+1887902996_John Zelle_Python Programming: An Introduction to Computer Science_1_FB_2_26.40
+0072823798_William Collins_Data Structures and the Java Collections Framework_2_MH_6_105.57
+0072866098_Allen Tucker_Programming Languages: Principles and Paradigms_2_MH_1_127.50
+0534950973_Michael Sipser_Introduction to the Theory of Computation_2_CT_3_98.90
+0131496700_Francis Hill_Computer Graphics Using OpenGL 3rd Edition_3_PH_4_112.00
+0321173486_Dave Shreiner_OpenGL Programming Guide_5_AW_1_24.00
+0072865512_Steven Schach_Object Oriented and Classical Software Engineering_6_MH_9_123.44
+0321228383_Michael Kifer_Database Systems: An Application-Oriented Approach_2_AW_3_112.86
+0023606924_Richard Johnsonbaugh_Algorithms_1_PH_1_109.00
+1400032717_Mark Haddon_The Curious Incident of the Dog in the Night-Time_1_VI_10_13.95
+006025492X_Maurice Sendak_Where the Wild Things Are_1_HC_6_17.95
+0694003611_Margaret Brown_Goodnight Moon_1_HC_11_8.99
+069401298X_Arnold Lobel_Frog and Toad Together_1_HC_2_11.55
